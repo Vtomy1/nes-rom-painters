@@ -1,0 +1,6 @@
+{
+  "name": "NES ROM Painter & Header Studio",
+  "description": "Interactive NES pixel art canvas, CHR tile bank editor, and iNES/NES 2.0 header generator with real-time playable ROM builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
